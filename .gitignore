@@ -1,0 +1,10 @@
+# Virtual Environments.
+/VirtualEnv/
+
+# Startup files.
+starter.bat
+*.bat
+
+# Python cache
+*.pyc
+*/__pycache__/
